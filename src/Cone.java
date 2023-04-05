@@ -1,6 +1,4 @@
-//Child class
 public class Cone extends Shape {
-    //Overridden area method
     @Override
     void area(int r, int l) {
         System.out.println("Calling derived class...");
